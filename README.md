@@ -1,4 +1,4 @@
-# 📦 Time Series Forecasting – Guayas Region (TS_SALES)
+# 📦 Time Series Forecasting – Guayas Region
 
 This project delivers a real-time sales forecasting application for demand planners in the Guayas region using historical store-item data.
 
