@@ -1,6 +1,0 @@
-artifact_location: file:///Users/s.bangemann/Documents/Arbeit/Masterschool/Projects/Time%20Series/ts_sales/ts_sales/mlruns/226018649290993764
-creation_time: 1747384883775
-experiment_id: '226018649290993764'
-last_update_time: 1747384883775
-lifecycle_stage: active
-name: xgb_randomsearch_parallel
