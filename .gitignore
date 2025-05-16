@@ -1,0 +1,35 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Python cache and artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# VS Code settings
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Environment and secrets
+.env
+kaggle.json
+
+# MLflow runs (optional)
+mlruns/
+
+# Preprocessed data (local only)
+/preprocessed/
+*.csv
+
+# Virtual environment (if in project)
+.venv/
