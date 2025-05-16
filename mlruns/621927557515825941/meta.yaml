@@ -1,0 +1,6 @@
+artifact_location: file:///Users/s.bangemann/Documents/Arbeit/Masterschool/Projects/Time%20Series/ts_sales/ts_sales/mlruns/621927557515825941
+creation_time: 1747383763535
+experiment_id: '621927557515825941'
+last_update_time: 1747383763535
+lifecycle_stage: active
+name: store_item_sales_forecast_hyperopt

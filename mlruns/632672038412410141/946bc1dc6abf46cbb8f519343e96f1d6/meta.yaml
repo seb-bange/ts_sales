@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/s.bangemann/Documents/Arbeit/Masterschool/Projects/Time%20Series/ts_sales/ts_sales/mlruns/632672038412410141/946bc1dc6abf46cbb8f519343e96f1d6/artifacts
+end_time: 1747381947566
+entry_point_name: ''
+experiment_id: '632672038412410141'
+lifecycle_stage: active
+run_id: 946bc1dc6abf46cbb8f519343e96f1d6
+run_name: wise-squid-35
+run_uuid: 946bc1dc6abf46cbb8f519343e96f1d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747381944139
+status: 3
+tags: []
+user_id: s.bangemann

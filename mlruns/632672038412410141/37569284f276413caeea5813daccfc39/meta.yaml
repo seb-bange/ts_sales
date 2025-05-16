@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/s.bangemann/Documents/Arbeit/Masterschool/Projects/Time%20Series/ts_sales/ts_sales/mlruns/632672038412410141/37569284f276413caeea5813daccfc39/artifacts
+end_time: 1747382739093
+entry_point_name: ''
+experiment_id: '632672038412410141'
+lifecycle_stage: active
+run_id: 37569284f276413caeea5813daccfc39
+run_name: trusting-mink-55
+run_uuid: 37569284f276413caeea5813daccfc39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747382735627
+status: 3
+tags: []
+user_id: s.bangemann

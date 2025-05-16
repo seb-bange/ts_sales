@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/s.bangemann/Documents/Arbeit/Masterschool/Projects/Time%20Series/ts_sales/ts_sales/mlruns/105487163669185751/fa28f06c74a74f5dab41a7a9fa0b75ae/artifacts
+end_time: 1747385311509
+entry_point_name: ''
+experiment_id: '105487163669185751'
+lifecycle_stage: active
+run_id: fa28f06c74a74f5dab41a7a9fa0b75ae
+run_name: unleashed-stoat-659
+run_uuid: fa28f06c74a74f5dab41a7a9fa0b75ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747385308783
+status: 4
+tags: []
+user_id: s.bangemann

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/s.bangemann/Documents/Arbeit/Masterschool/Projects/Time%20Series/ts_sales/ts_sales/mlruns/632672038412410141/86adc3aaf00b44b78d5905269e74eb21/artifacts
+end_time: 1747382000090
+entry_point_name: ''
+experiment_id: '632672038412410141'
+lifecycle_stage: active
+run_id: 86adc3aaf00b44b78d5905269e74eb21
+run_name: welcoming-horse-956
+run_uuid: 86adc3aaf00b44b78d5905269e74eb21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747381996160
+status: 3
+tags: []
+user_id: s.bangemann

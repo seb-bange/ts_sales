@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/s.bangemann/Documents/Arbeit/Masterschool/Projects/Time%20Series/ts_sales/ts_sales/mlruns/105487163669185751/cbf2deac25d74fdf966715fda955b432/artifacts
+end_time: 1747385444263
+entry_point_name: ''
+experiment_id: '105487163669185751'
+lifecycle_stage: active
+run_id: cbf2deac25d74fdf966715fda955b432
+run_name: polite-rook-410
+run_uuid: cbf2deac25d74fdf966715fda955b432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747385434097
+status: 3
+tags: []
+user_id: s.bangemann

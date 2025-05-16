@@ -1,0 +1,6 @@
+artifact_location: file:///Users/s.bangemann/Documents/Arbeit/Masterschool/Projects/Time%20Series/ts_sales/ts_sales/mlruns/105487163669185751
+creation_time: 1747385053807
+experiment_id: '105487163669185751'
+last_update_time: 1747385053807
+lifecycle_stage: active
+name: lstm_unit_sales_forecast

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/s.bangemann/Documents/Arbeit/Masterschool/Projects/Time%20Series/ts_sales/ts_sales/mlruns/447243826292940920/14fea3a9375645b6957d8bafcc4df288/artifacts
+end_time: 1747385984552
+entry_point_name: ''
+experiment_id: '447243826292940920'
+lifecycle_stage: active
+run_id: 14fea3a9375645b6957d8bafcc4df288
+run_name: judicious-kit-406
+run_uuid: 14fea3a9375645b6957d8bafcc4df288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747385972226
+status: 3
+tags: []
+user_id: s.bangemann

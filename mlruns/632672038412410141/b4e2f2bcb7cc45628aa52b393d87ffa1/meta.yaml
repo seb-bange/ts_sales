@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/s.bangemann/Documents/Arbeit/Masterschool/Projects/Time%20Series/ts_sales/ts_sales/mlruns/632672038412410141/b4e2f2bcb7cc45628aa52b393d87ffa1/artifacts
+end_time: 1747382735614
+entry_point_name: ''
+experiment_id: '632672038412410141'
+lifecycle_stage: active
+run_id: b4e2f2bcb7cc45628aa52b393d87ffa1
+run_name: capricious-zebra-209
+run_uuid: b4e2f2bcb7cc45628aa52b393d87ffa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747382511621
+status: 3
+tags: []
+user_id: s.bangemann
